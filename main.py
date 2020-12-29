@@ -41,7 +41,7 @@ def identifikasi(target_ip):
                 phase2.append(word)
 if __name__=="__main__":
     # clients = []
-    phase1 = []
+    phase1 = [] #you can put your legal ip here
     phase2 = []
     print("Author github.com/Anasg4 \n")
     ip = input("Contoh inputan / exmple for input >>> 192.168.1.1/24\nMasukan IP dan Port, port default /24 : ")
